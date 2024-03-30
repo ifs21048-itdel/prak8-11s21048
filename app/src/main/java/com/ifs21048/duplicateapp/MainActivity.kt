@@ -184,4 +184,6 @@ class MainActivity : AppCompatActivity() {
         const val FLAG_FRAGMENT_COMMUNITIES = "fragment_communities"
         const val FLAG_FRAGMENT_CALLS = "fragment_calls"
     }
+
+//    Ini adalah kode program MainActivity
 }
