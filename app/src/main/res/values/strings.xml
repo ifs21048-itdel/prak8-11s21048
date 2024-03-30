@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">DuplicateApp</string>
+    <string name="icon_profile_info">Foto Profile</string>
+    <string name="contact_name_info">Nama Kontak</string>
+    <string name="chat_preview_info">Preview Chat</string>
+
+    <string-array name="contact_name">
+        <item>Nabila Syahnia</item> <!-- Perempuan -->
+        <item>Muhammad Farhan</item> <!-- Laki-laki -->
+        <item>Alya Zahira</item> <!-- Perempuan -->
+        <item>Ali Akbar</item> <!-- Laki-laki -->
+        <item>Siti Nurul</item> <!-- Perempuan -->
+        <item>Firman Rahman</item> <!-- Laki-laki -->
+        <item>Dewi Susanti</item> <!-- Perempuan -->
+        <item>Rizki Pratama</item> <!-- Laki-laki -->
+        <item>Fitriani Wati</item> <!-- Perempuan -->
+        <item>Rizal Hidayat</item> <!-- Laki-laki -->
+    </string-array>
+
+    <string-array name="contact_profile">
+        <item>@drawable/blankprofile</item>
+        <item>@drawable/boy1</item>
+        <item>@drawable/girl1</item>
+        <item>@drawable/boy2</item>
+        <item>@drawable/girl2</item>
+        <item>@drawable/boy3</item>
+        <item>@drawable/girl3</item>
+        <item>@drawable/boy4</item>
+        <item>@drawable/girl4</item>
+        <item>@drawable/boy5</item>
+    </string-array>
+
+    <string-array name="contact_chat">
+        <item>Hi, Nabila! Apa kabar?</item>
+        <item>Hai, ada yang bisa saya bantu?</item>
+        <item>Halo, apa yang sedang kamu lakukan?</item>
+        <item>Selamat pagi, Nabila! Semangat untuk hari ini!</item>
+        <item>Hai Nabila, ada rencana untuk akhir pekan ini?</item>
+        <item>Halo, sudah makan belum?</item>
+        <item>Hi, ada kabar menarik nih, ingin saya bagikan?</item>
+        <item>Hai, bagaimana cuaca di sana?</item>
+        <item>Halo, ada rencana liburan ke mana musim ini?</item>
+        <item>Hi, apa yang kamu pikirkan tentang proyek kita?</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

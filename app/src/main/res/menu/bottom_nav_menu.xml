@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_chats"
+        android:icon="@drawable/baseline_chat_24"
+        android:title="Chats" />
+
+    <item
+        android:id="@+id/navigation_updates"
+        android:icon="@drawable/baseline_update_24"
+        android:title="Updates" />
+
+    <item
+        android:id="@+id/navigation_communities"
+        android:icon="@drawable/baseline_groups_24"
+        android:title="Communities" />
+
+    <item
+        android:id="@+id/navigation_calls"
+        android:icon="@drawable/baseline_call_24"
+        android:title="Calls" />
+
+</menu>
